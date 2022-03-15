@@ -7,11 +7,11 @@ Web Developer and sometimes designer.
 I have been working mainly with Laravel and native php and some java, but i also have experience with android development mainly with Flutter, I also have experience with working with JS and library like React, Vue, & Svelte so naturally i also "kinda" good with css (and scss), especially with library like tailwind or bootstrap, i also interested in learning golang, on top of that i also proficient with database management like mysql, postgresql and NoSql like mongodb. Sidenote: i also proficient with design software like Adobe photoshop and Adobe illustrator.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Here.](http://bumpyy.github.io/portfolio/)
+* 🖥️  See my portfolio [here.](http://bumpyy.github.io/portfolio/)
 * ✉️  You can contact me at [fsghassan2429d@gmail.com](mailto:fsghassan2429d@gmail.com)
-* 🚀  I'm currently working on [My Portfolio.](http://bumpyy.github.io/portfolio/)
+* 🚀  I'm currently working on [my portfolio.](http://bumpyy.github.io/portfolio/)
 * 🧠  I'm learning Golang.
-* 🤝  I'm open to collaborating on Anything, but mostly web project.
+* 🤝  I'm open to collaborating on Anything, but prefer web project.
 * ⚡  I always happy to learn new things.
 
 ### Skills
