@@ -11,7 +11,7 @@ I have been working mainly with Laravel and native php and some java, but i also
 * ✉️  You can contact me at [fsghassan2429d@gmail.com](mailto:fsghassan2429d@gmail.com)
 * 🚀  I'm currently working on [my portfolio.](http://bumpyy.github.io/portfolio/)
 * 🧠  I'm learning Golang.
-* 🤝  I'm open to collaborating on Anything, but prefer web project.
+* 🤝  I'm open to collaborating on anything, but prefer web project.
 * ⚡  I always happy to learn new things.
 
 ### Skills
