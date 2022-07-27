@@ -16,15 +16,15 @@ I have been working mainly with Laravel and native php and some java, but i also
 
 ### Language & Framework
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,vue,svelte,nodejs,express,py,php,laravel,java,dart,flutter,firebase,mysql,postgres,mongodb,bash,md,git,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,vue,svelte,nodejs,express,py,php,laravel,java,dart,flutter,mysql,postgres,mongodb,bash,md)](https://skillicons.dev)
 
-### Deve Tools & Environment
+### Dev Tools & Environment
 
-[![My Skills](https://skillicons.dev/icons?i=git,idea,vscode)](https://skillicons.dev)
+[![Dev Tools & Environment](https://skillicons.dev/icons?i=git,idea,vscode,firebase)](https://skillicons.dev)
 
-### Editing 
+### Other Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)
+[![Other Expertise](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)
 
 ### Socials
 
