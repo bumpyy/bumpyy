@@ -14,10 +14,17 @@ I have been working mainly with Laravel and native php and some java, but i also
 * 🤝  I'm open to collaborating on anything, but prefer web project.
 * ⚡  I always happy to learn new things.
 
-### Skills
+### Language & Framework
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,vue,svelte,nodejs,express,py,php,laravel,java,dart,flutter,firebase,mysql,postgres,mongodb,bash,md,git,idea,vscode,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,vue,svelte,nodejs,express,py,php,laravel,java,dart,flutter,firebase,mysql,postgres,mongodb,bash,md,git,idea,vscode)](https://skillicons.dev)
 
+### Deve Tools & Environment
+
+[![My Skills](https://skillicons.dev/icons?i=git,idea,vscode)](https://skillicons.dev)
+
+### Editing 
+
+[![My Skills](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)
 
 ### Socials
 
