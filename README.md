@@ -10,7 +10,7 @@ I have been working mainly with Laravel and native php and some java, but i also
 * 🖥️  See my portfolio [here.](http://bumpyy.github.io/portfolio/)
 * ✉️  You can contact me at [fsghassan2429d@gmail.com](mailto:fsghassan2429d@gmail.com)
 * 🚀  I'm currently working on [my portfolio.](http://bumpyy.github.io/portfolio/)
-* 🧠  I'm learning Golang.
+* 🧠  I'm learning Svelte.
 * 🤝  I'm open to collaborating on anything, but prefer web project.
 * ⚡  I always happy to learn new things.
 
