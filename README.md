@@ -11,7 +11,7 @@ On a side note, I'm proficient in design software like Adobe Photoshop and Adobe
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio [here.](http://bumpyy.github.io/portfolio/) (under construction)
 * ✉️  You can contact me at [fsghassan2429d@gmail.com](mailto:fsghassan2429d@gmail.com)
-* 🚀  I'm currently working at DesignCub3
+* 🚀  I'm currently working at [DesignCub3](https://designcub3.com/)
 * 🧠  Learning Sveltekit, Nuxt, and other JS Meta-Framework.
 * 🤝  Open to collaborating on anything, but prefer web project.
 * ⚡  always happy to learn new things.
