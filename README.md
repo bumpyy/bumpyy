@@ -1,26 +1,28 @@
-Hi 👋 My name is Ghassan Fs
+Hi 👋 My name is Ghassan Fs A.K.A bumpyy
 ===========================
 
 Web Developer and sometimes designer.
 -------------------------------------
 
-I have been working mainly with Laravel and native php and some java, but i also have experience with android development mainly with Flutter, I also have experience with working with JS and library like React, Vue, & Svelte so naturally i also "kinda" good with css (and scss), especially with library like tailwind or bootstrap, i also interested in learning golang, on top of that i also proficient with database management like mysql, postgresql and NoSql like mongodb. Sidenote: i also proficient with design software like Adobe photoshop and Adobe illustrator.
+I've primarily focused on Laravel and native PHP alongside some Java. However, I've also delved into Android development, primarily using Flutter. Additionally, I possess hands-on experience with JavaScript and libraries such as React, Vue, and Svelte, which naturally extends to a solid understanding of CSS (including SCSS), particularly with frameworks like Tailwind or Bootstrap. I'm keenly interested in learning Golang and Rust. Furthermore, I'm proficient in managing databases, including MySQL, PostgreSQL, and NoSQL databases like MongoDB.
+
+On a side note, I'm proficient in design software like Adobe Photoshop and Adobe Illustrator.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio [here.](http://bumpyy.github.io/portfolio/)
+* 🖥️  See my portfolio [here.](http://bumpyy.github.io/portfolio/) (under construction)
 * ✉️  You can contact me at [fsghassan2429d@gmail.com](mailto:fsghassan2429d@gmail.com)
-* 🚀  I'm currently working on [my portfolio.](http://bumpyy.github.io/portfolio/)
-* 🧠  I'm learning Svelte.
-* 🤝  I'm open to collaborating on anything, but prefer web project.
-* ⚡  I always happy to learn new things.
+* 🚀  I'm currently working at DesignCub3
+* 🧠  Learning Sveltekit, Nuxt, and other JS Meta-Framework.
+* 🤝  Open to collaborating on anything, but prefer web project.
+* ⚡  always happy to learn new things.
 
-### Language & Framework
+### Tech
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,vue,svelte,nodejs,express,py,php,laravel,java,dart,flutter,mysql,postgres,mongodb,bash,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,alpinejs,ts,jquery,astro,react,nuxt,vue,nuxt,svelte,nodejs,express,py,php,laravel,java,dart,flutter,threejs,mysql,postgres,mongodb,bash,md,wordpress)](https://skillicons.dev)
 
 ### Dev Tools & Environment
 
-[![Dev Tools & Environment](https://skillicons.dev/icons?i=git,idea,vscode,firebase)](https://skillicons.dev)
+[![Dev Tools & Environment](https://skillicons.dev/icons?i=git,idea,vscode,vite,firebase,supabase)](https://skillicons.dev)
 
 ### Other Expertise
 
@@ -36,9 +38,13 @@ I have been working mainly with Laravel and native php and some java, but i also
 ### Badges
 
 <b>My GitHub Stats</b>
+<div>
+  
 <p align="left">
-
-<a href="http://www.github.com/bumpyy"><img src="https://github-readme-stats.vercel.app/api?username=bumpyy&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="bumpyy's GitHub stats" /></a>
-
+<a href="https://app.daily.dev/bump"><img src="https://api.daily.dev/devcards/0ed862a4b826402d81c99a1326ce5e73.png?r=8xm" width="400" alt="Ghassan Fs's Dev Card"/></a>
 <a href="https://github.com/bumpyy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumpyy&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 </p>
+
+<p align="right">
+</p>
+</div>
