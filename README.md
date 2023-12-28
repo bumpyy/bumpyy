@@ -18,7 +18,7 @@ On a side note, I'm proficient in design software like Adobe Photoshop and Adobe
 
 ### Tech
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,alpinejs,ts,jquery,astro,react,nuxt,vue,nuxt,svelte,nodejs,express,py,php,laravel,java,dart,flutter,threejs,mysql,postgres,mongodb,bash,md,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,alpinejs,ts,jquery,astro,react,vue,nuxt,svelte,nodejs,express,py,php,laravel,java,dart,flutter,threejs,mysql,postgres,mongodb,bash,md,wordpress)](https://skillicons.dev)
 
 ### Dev Tools & Environment
 
