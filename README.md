@@ -26,7 +26,7 @@ On a side note, I'm proficient in design software like Adobe Photoshop and Adobe
 
 ### Other Expertise
 
-[![Other Expertise](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)
+[![Other Expertise](https://skillicons.dev/icons?i=ps,ai,blender)](https://skillicons.dev)
 
 ### Socials
 
