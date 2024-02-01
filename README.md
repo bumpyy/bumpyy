@@ -3,10 +3,9 @@ Hi 👋 My name is Ghassan Fs A.K.A bumpyy
 
 Web Developer and sometimes designer.
 -------------------------------------
+I have predominantly focused on Laravel and native PHP, complemented by experience in Java. Additionally, I have delved into Android development, primarily utilizing Flutter. My expertise extends to JavaScript, including libraries such as React, Vue, and Svelte, with a solid understanding of CSS (including SCSS), particularly in frameworks like Tailwind or Bootstrap. I am eager to broaden my skill set with Golang and Rust. Proficient in managing databases, I have hands-on experience with MySQL, PostgreSQL, and NoSQL databases like MongoDB.
 
-I've primarily focused on Laravel and native PHP alongside some Java. However, I've also delved into Android development, primarily using Flutter. Additionally, I possess hands-on experience with JavaScript and libraries such as React, Vue, and Svelte, which naturally extends to a solid understanding of CSS (including SCSS), particularly with frameworks like Tailwind or Bootstrap. I'm keenly interested in learning Golang and Rust. Furthermore, I'm proficient in managing databases, including MySQL, PostgreSQL, and NoSQL databases like MongoDB.
-
-On a side note, I'm proficient in design software like Adobe Photoshop and Adobe Illustrator.
+On a side note, I am adept at using design software like Adobe Photoshop and Adobe Illustrator.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio [here.](http://bumpyy.github.io/portfolio/) (under construction)
