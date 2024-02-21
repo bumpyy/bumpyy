@@ -43,6 +43,7 @@ On a side note, I am adept at using design software like Adobe Photoshop and Ado
 <a href="https://github.com/bumpyy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bumpyy&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 </p>
 
+<a href="https://app.daily.dev/bump"><img src="./devcard.png" width="356" alt="Ghassan Fs's Dev Card"/></a>
 <p align="right">
 </p>
 </div>
