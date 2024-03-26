@@ -25,7 +25,7 @@ On a side note, I am adept at using design software like Adobe Photoshop and Ado
 
 ### Other Expertise
 
-[![Other Expertise](https://skillicons.dev/icons?i=ps,ai,blender)](https://skillicons.dev)
+[![Other Expertise](https://skillicons.dev/icons?i=ps,ai,blender,figma)](https://skillicons.dev)
 
 ### Socials
 
