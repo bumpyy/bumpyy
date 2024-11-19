@@ -8,9 +8,9 @@ I have predominantly focused on Laravel and native PHP, complemented by experien
 On a side note, I am adept at using design software like Adobe Photoshop and Adobe Illustrator.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio [here.](http://bumpyy.github.io/portfolio/) (under construction)
 * ✉️  You can contact me at [fsghassan2429d@gmail.com](mailto:fsghassan2429d@gmail.com)
 * 🚀  I'm currently working at [DesignCub3](https://designcub3.com/)
+* 🛠️ Currently working on designcub3 [internal public docs](https://programme-designcub3.github.io/dc-doc)
 * 🧠  Learning Three.js with [Bruno](https://bruno-simon.com/), plus Sveltekit, Nuxt, and other JS Meta-Framework.
 * 🤝  Open to collaborating on anything, but prefer web project.
 * ⚡  always happy to learn new things.
