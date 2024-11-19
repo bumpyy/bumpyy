@@ -10,7 +10,7 @@ On a side note, I am adept at using design software like Adobe Photoshop and Ado
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [fsghassan2429d@gmail.com](mailto:fsghassan2429d@gmail.com)
 * 🚀  I'm currently working at [DesignCub3](https://designcub3.com/)
-* 🛠️ Currently working on designcub3 [internal public docs](https://programme-designcub3.github.io/dc-doc) using [Astro.build](astro.build)
+* 🛠️ Currently working on designcub3 [internal public docs](https://programme-designcub3.github.io/dc-doc) using [Astro](https://astro.build)
 * 🧠  Learning Three.js with [Bruno](https://bruno-simon.com/), plus Sveltekit, Nuxt, and other JS Meta-Framework.
 * 🤝  Open to collaborating on anything, but prefer web project.
 * ⚡  always happy to learn new things.
