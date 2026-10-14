@@ -10,7 +10,7 @@ On a side note, I am adept at using design software like Adobe Photoshop and Ado
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [fsghassan2429d@gmail.com](mailto:fsghassan2429d@gmail.com)
 * 🚀  I'm currently working at [DesignCub3](https://designcub3.com/)
-* 🛠️ Currently working on Designcub3 [internal public docs](https://programme-designcub3.github.io/dc-doc) using [Astro](https://astro.build)
+* 🛠️  Currently working on Designcub3 [internal public docs](https://programme-designcub3.github.io/dc-doc) using [Astro](https://astro.build)
 * 🧠  Learning Three.js with [Bruno](https://bruno-simon.com/), plus Sveltekit, Nuxt, and other JS Meta-Framework.
 * 🤝  Open to collaborating on anything, but prefer web project.
 * ⚡  always happy to learn new things.
@@ -32,4 +32,5 @@ On a side note, I am adept at using design software like Adobe Photoshop and Ado
 <p align="left">
 <a href="https://www.github.com/bumpyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/ghassanfs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+
+Visit me on <a href="https://learnhypersheets.com/profile/ghassan-fs" target="_blank" rel="noreferrer">HyperSheet</a>
